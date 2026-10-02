@@ -6,3 +6,5 @@ Welcome to my personal page! This is a repository showcasing my experience, proj
 3. My career path
 4. My projects
 5. Contact details
+
+To view each section, please click "view branches" and select the relevant option that you would like to view.
