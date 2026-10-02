@@ -1,4 +1,4 @@
-# personal-page
+# Personal Page: Emily (Xinyan) Fan
 Welcome to my personal page! This is a repository showcasing my experience, projects and achievements. This repository contains five main sections:
 
 1. About me
